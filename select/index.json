@@ -1,168 +1,152 @@
 {
   "version": 1,
-  "base_track": "Gang Up",
-  "base_artist": "Young Thug, 2 Chainz, Wiz Khalifa, & PnB Rock",
-  "createdAt": "2026-02-17T09:33:01.241512Z",
+  "base_track": "Go Off",
+  "base_artist": "Lil Uzi Vert, Quavo, & Travis Scott",
+  "createdAt": "2026-02-17T09:37:00.748357Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
-      "title": "Gang Up",
-      "artist": "Young Thug feat. 2 Chainz, Wiz Khalifa & PnB Rock",
+      "title": "Go Off",
+      "artist": "M.I.A.",
       "has_synced": true,
-      "path": "select/01_Gang_Up_Young_Thug_feat._2_Chainz,_Wiz_Khalifa_&_PnB_Rock.lrc"
+      "path": "select/01_Go_Off_M.I.A..lrc"
     },
     {
       "id": "lrclib_2",
       "source": "lrclib",
-      "title": "Gang Up",
-      "artist": "Young Thug",
+      "title": "Don't Go Off Wandering",
+      "artist": "Limp Bizkit",
       "has_synced": true,
-      "path": "select/02_Gang_Up_Young_Thug.lrc"
+      "path": "select/02_Don't_Go_Off_Wandering_Limp_Bizkit.lrc"
     },
     {
       "id": "lrclib_3",
       "source": "lrclib",
-      "title": "Gang Up",
-      "artist": "Young Thug, 2 Chainz, Wiz Khalifa & PnB Rock",
+      "title": "Don't Go Off Wandering",
+      "artist": "Limp Bizkit",
       "has_synced": true,
-      "path": "select/03_Gang_Up_Young_Thug,_2_Chainz,_Wiz_Khalifa_&_PnB_Rock.lrc"
+      "path": "select/03_Don't_Go_Off_Wandering_Limp_Bizkit.lrc"
     },
     {
       "id": "lrclib_4",
       "source": "lrclib",
-      "title": "Gang Up",
-      "artist": "Young Thug",
+      "title": "Shots Go Off",
+      "artist": "Cypress Hill & Rusko",
       "has_synced": true,
-      "path": "select/04_Gang_Up_Young_Thug.lrc"
+      "path": "select/04_Shots_Go_Off_Cypress_Hill_&_Rusko.lrc"
     },
     {
       "id": "lrclib_5",
       "source": "lrclib",
-      "title": "Gang Up",
-      "artist": "Young Thug;2 Chainz;Wiz Khalifa;PnB Rock",
+      "title": "Shots Go Off",
+      "artist": "Cypress Hill",
       "has_synced": true,
-      "path": "select/05_Gang_Up_Young_Thug;2_Chainz;Wiz_Khalifa;PnB_Rock.lrc"
+      "path": "select/05_Shots_Go_Off_Cypress_Hill.lrc"
     },
     {
       "id": "lrclib_6",
       "source": "lrclib",
-      "title": "Gang Up",
-      "artist": "2 Chainz",
+      "title": "My Gun Go Off",
+      "artist": "50 Cent",
       "has_synced": true,
-      "path": "select/06_Gang_Up_2_Chainz.lrc"
+      "path": "select/06_My_Gun_Go_Off_50_Cent.lrc"
     },
     {
       "id": "lrclib_7",
       "source": "lrclib",
-      "title": "Gang Up (with Young Thug, 2 Chainz & Wiz Khalifa feat. PnB Rock)",
-      "artist": "Young Thug feat. 2 Chainz, Wiz Khalifa & PnB Rock",
+      "title": "Go Off",
+      "artist": "Lil Uzi Vert feat. Quavo & Travis Scott",
       "has_synced": true,
-      "path": "select/07_Gang_Up_(with_Young_Thug,_2_Chainz_&_Wiz_Khalifa_feat._PnB_Rock)_Young_Thug_feat._2_Chainz,_Wiz_Khalifa_&_PnB_Rock.lrc"
+      "path": "select/07_Go_Off_Lil_Uzi_Vert_feat._Quavo_&_Travis_Scott.lrc"
     },
     {
       "id": "lrclib_8",
       "source": "lrclib",
-      "title": "Gang Up (with Young Thug, 2 Chainz & Wiz Khalifa feat. PnB Rock)",
-      "artist": "Young Thug, 2 Chainz, Wiz Khalifa, PnB Rock",
+      "title": "Go Off",
+      "artist": "Lil Uzi Vert, Quavo & Travis Scott",
       "has_synced": true,
-      "path": "select/08_Gang_Up_(with_Young_Thug,_2_Chainz_&_Wiz_Khalifa_feat._PnB_Rock)_Young_Thug,_2_Chainz,_Wiz_Khalifa,_PnB_Rock.lrc"
+      "path": "select/08_Go_Off_Lil_Uzi_Vert,_Quavo_&_Travis_Scott.lrc"
     },
     {
       "id": "lrclib_9",
       "source": "lrclib",
-      "title": "Gang Up",
-      "artist": "Young Thug, 2 Chainz, Wiz Khalifa, PnB Rock",
+      "title": "GO OFF (Nuthin' 2 It)",
+      "artist": "Dillon Francis",
       "has_synced": true,
-      "path": "select/09_Gang_Up_Young_Thug,_2_Chainz,_Wiz_Khalifa,_PnB_Rock.lrc"
+      "path": "select/09_GO_OFF_(Nuthin'_2_It)_Dillon_Francis.lrc"
     },
     {
       "id": "lrclib_10",
       "source": "lrclib",
-      "title": "Gang Up",
-      "artist": "Young Thug, 2 Chainz, Wiz Khalifa & PnB Rock",
-      "has_synced": true,
-      "path": "select/10_Gang_Up_Young_Thug,_2_Chainz,_Wiz_Khalifa_&_PnB_Rock.lrc"
+      "title": "Go Off! Intro",
+      "artist": "Jason Becker",
+      "has_synced": false,
+      "path": "select/10_Go_Off!_Intro_Jason_Becker.txt"
     },
     {
       "id": "lrclib_11",
       "source": "lrclib",
-      "title": "Gang Up",
-      "artist": "Young Thug • 2 Chainz • Wiz Khalifa • PnB Rock",
+      "title": "Go Off (Explicit)",
+      "artist": "Lil Uzi Vert f./Quavo & Travis Scott",
       "has_synced": true,
-      "path": "select/11_Gang_Up_Young_Thug_•_2_Chainz_•_Wiz_Khalifa_•_PnB_Rock.lrc"
+      "path": "select/11_Go_Off_(Explicit)_Lil_Uzi_Vert_f._Quavo_&_Travis_Scott.lrc"
     },
     {
       "id": "lrclib_12",
       "source": "lrclib",
-      "title": "Gang Up",
-      "artist": "Young Thug",
+      "title": "Don't Go Off Wandering",
+      "artist": "Limp Bizkit",
       "has_synced": true,
-      "path": "select/12_Gang_Up_Young_Thug.lrc"
+      "path": "select/12_Don't_Go_Off_Wandering_Limp_Bizkit.lrc"
     },
     {
       "id": "lrclib_13",
       "source": "lrclib",
-      "title": "Gang Up",
-      "artist": "Young Thug - Topic",
+      "title": "GO OFF",
+      "artist": "Ab-Soul feat. Russ & Big Sean",
       "has_synced": true,
-      "path": "select/13_Gang_Up_Young_Thug_-_Topic.lrc"
+      "path": "select/13_GO_OFF_Ab-Soul_feat._Russ_&_Big_Sean.lrc"
     },
     {
       "id": "lrclib_14",
       "source": "lrclib",
-      "title": "Gang Up",
-      "artist": "Wiz Khalifa, Young Thug, PnB Rock, 2 Chainz",
+      "title": "Go Off",
+      "artist": "Ab‐Soul feat. Russ & Big Sean",
       "has_synced": true,
-      "path": "select/14_Gang_Up_Wiz_Khalifa,_Young_Thug,_PnB_Rock,_2_Chainz.lrc"
+      "path": "select/14_Go_Off_Ab‐Soul_feat._Russ_&_Big_Sean.lrc"
     },
     {
       "id": "lrclib_15",
       "source": "lrclib",
-      "title": "Gang Up (with Young Thug, 2 Chainz & Wiz Khalifa feat. PnB Rock)",
-      "artist": "Young Thug",
-      "has_synced": true,
-      "path": "select/15_Gang_Up_(with_Young_Thug,_2_Chainz_&_Wiz_Khalifa_feat._PnB_Rock)_Young_Thug.lrc"
+      "title": "Go Off (with Lil Uzi Vert, Quavo & Travis Scott)",
+      "artist": "Lil Uzi Vert feat. Quavo & Travis Scott",
+      "has_synced": false,
+      "path": "select/15_Go_Off_(with_Lil_Uzi_Vert,_Quavo_&_Travis_Scott)_Lil_Uzi_Vert_feat._Quavo_&_Travis_Scott.txt"
     },
     {
       "id": "lrclib_16",
       "source": "lrclib",
-      "title": "Gang Up (with Young Thug, 2 Chainz",
-      "artist": "Young Thug, 2 Chainz, Wiz Khalifa, PnB Rock",
-      "has_synced": true,
-      "path": "select/16_Gang_Up_(with_Young_Thug,_2_Chainz_Young_Thug,_2_Chainz,_Wiz_Khalifa,_PnB_Rock.lrc"
+      "title": "Go Off",
+      "artist": "Econoline Crush",
+      "has_synced": false,
+      "path": "select/16_Go_Off_Econoline_Crush.txt"
     },
     {
       "id": "lrclib_17",
       "source": "lrclib",
-      "title": "Young Thug, 2 Chainz, Wiz Khalifa & PnB Rock – Gang Up (The Fate of the Furious: The Album) [VIDEO]",
-      "artist": "Young Thug",
+      "title": "Go Off",
+      "artist": "Doja Cat",
       "has_synced": true,
-      "path": "select/17_Young_Thug,_2_Chainz,_Wiz_Khalifa_&_PnB_Rock_–_Gang_Up_(The_Fate_of_the_Furious__Young_Thug.lrc"
-    },
-    {
-      "id": "lrclib_18",
-      "source": "lrclib",
-      "title": "Gang Up (with Young Thug, 2 Chainz & Wiz Khalifa feat. PnB Rock)",
-      "artist": "Young Thug",
-      "has_synced": true,
-      "path": "select/18_Gang_Up_(with_Young_Thug,_2_Chainz_&_Wiz_Khalifa_feat._PnB_Rock)_Young_Thug.lrc"
-    },
-    {
-      "id": "lrclib_19",
-      "source": "lrclib",
-      "title": "Gang Up",
-      "artist": "Young Thug",
-      "has_synced": true,
-      "path": "select/19_Gang_Up_Young_Thug.lrc"
+      "path": "select/17_Go_Off_Doja_Cat.lrc"
     },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "Gang Up",
-      "artist": "Young Thug, 2 Chainz, Wiz Khalifa & PnB Rock",
+      "title": "Go Off",
+      "artist": "Lil Uzi Vert, Quavo & Travis Scott",
       "has_synced": false,
-      "path": "select/pl_01_Gang_Up_Young_Thug,_2_Chainz,_Wiz_Khalifa_&_PnB_Rock.txt"
+      "path": "select/pl_01_Go_Off_Lil_Uzi_Vert,_Quavo_&_Travis_Scott.txt"
     }
   ]
 }
