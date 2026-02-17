@@ -1,0 +1,100 @@
+# Young Thug, 2 Chainz, Wiz Khalifa, & PnB Rock – Gang Up
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:05.85] Oh yeah
+[00:08.40] Yeah, yeah, yeah, yeah
+[00:19.40] 
+[00:11.71] I'm with the gang, gang, gang and we 'bout to go up
+[00:15.74] Switching lanes, it's a thang, every time we show up
+[00:18.81] You a lame, lame, lame and you so below us
+[00:21.84] Bet your hoe, she know us
+[00:23.62] 'Cause you know we blowed up
+[00:25.17] We stay down
+[00:28.01] And came up, and came up
+[00:31.43] We stay down
+[00:34.52] We came up, the gang up
+[00:46.02] 
+[00:37.43] 2 Chainz (Yeah)
+[00:39.21] I'm a villainous winner
+[00:41.44] With precision, I'm killing
+[00:43.08] Represent the religion
+[00:44.60] Ended up independent
+[00:46.28] Took my car to the clinic
+[00:47.88] Let 'em check all the vitals
+[00:49.45] Middle finger to rivals
+[00:50.94] Michael Jackson, my idol
+[00:52.59] Still ducked in a pie hole
+[00:54.14] Talk to the plug, every day except Cinco de Mayo
+[00:57.21] I still got me a Carlo
+[00:58.99] Still got money, Carlo
+[01:00.55] Your car running so bad, it stink up to your parlor
+[01:03.52] Call my rollie a Ralo
+[01:05.42] Call my AP a app
+[01:06.94] I ain't talking seat-belts when I say that I'm strapped
+[01:10.08] I'm in love with my side hoe
+[01:11.85] I sneak up through the side door
+[01:13.39] I'ma show you what we ride for
+[01:14.84] I'ma show you what we die for
+[01:29.34] 
+[01:16.14] I'm with the gang, gang, gang and we 'bout to go up
+[01:18.69] Switching lanes, it's a thang, every time we show up
+[01:21.79] You a lame, lame, lame and you so below us
+[01:24.95] Bet your hoe, she know us
+[01:26.64] 'Cause you know we blowed up
+[01:28.11] We stay down
+[01:31.13] And came up, and came up
+[01:34.06] We stay down
+[01:37.45] We came up, the gang up
+[01:48.95] 
+[01:40.65] I'm in my same lane, lane that ain't gon' ever change up
+[01:43.90] I blow the brain out the range like a Taz Angel
+[01:46.96] Here's R.I.P. to Paul Walker homie, he gotta stand up
+[01:50.20] We had you main on us, no we got stains on us
+[01:53.49] And all we gotta do is stay down and come up while they flexin' (What we gotta do?)
+[01:57.96] Yeah, I got her Indian and she Western
+[02:00.48] Yeah, just say so, money your best friend
+[02:03.77] Then that fast and furious started nesting
+[02:06.82] Say I'm bout to go take off on you (Take off on you)
+[02:09.52] Is staying, is you rolling like a scroller? yes you are
+[02:12.48] Your ready to take off like a 1980 Coke
+[02:15.26] He know that Instagram shit, are you gon' post that
+[02:40.76] 
+[02:18.34] I'm with the gang, gang, gang and we 'bout to go up
+[02:21.76] Switching lanes, it's a thang, every time we show up
+[02:24.91] You a lame, lame, lame and you so below us
+[02:28.06] Bet your hoe, she know us
+[02:29.88] 'Cause you know we blowed up
+[02:31.36] We stay down
+[02:34.45] And came up, and came up
+[02:37.53] We stay down
+[02:40.65] We came up, the gang up
+[02:52.15] 
+[02:43.70] Yeah, I'm always with my gang
+[02:46.28] We always ready to ride 'case for the squad, we'll do anything
+[02:50.04] Stay down, we'll never change
+[02:52.49] We always gon' stay the same
+[02:54.33] Put you in check, when you outta place
+[02:56.58] I try to tell 'em not to mess with my gang, gang, gang
+[02:59.71] We do what we gotta do and don't complain-plain-plain
+[03:02.96] I'm on the road, I'm probably fresh up off the plane, plane, plane
+[03:06.05] Know you heard about me, I do my thang, thang, thang
+[03:09.76] I got the world on my back
+[03:11.42] I put your girl on her back
+[03:13.15] I did it all on my own
+[03:14.63] Now there ain't no turning back
+[03:16.22] And my whole squad got my back
+[03:17.84] And shawty so bad, I asked her if she repped the gang, she said "Facts"
+[03:21.20] Gang, gang, gang
+[03:29.20] 
+[03:22.80] I'm with the gang, gang, gang and we 'bout to go up
+[03:25.01] Switching lanes, it's a thang, every time we show up
+[03:28.02] You a lame, lame, lame and you so below us
+[03:31.23] Bet your hoe, she know us
+[03:32.99] 'Cause you know we blowed up
+[03:34.48] We stay down
+[03:37.47] And came up, and came up
+[03:40.65] We stay down
+[03:44.00] We came up, the gang up
+```
