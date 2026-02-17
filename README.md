@@ -1,100 +1,94 @@
-# Young Thug, 2 Chainz, Wiz Khalifa, & PnB Rock – Gang Up
+# Lil Uzi Vert, Quavo, & Travis Scott – Go Off
 
 > **歌詞登録ステータス：同期歌詞あり**
 
 ```lrc
-[00:05.85] Oh yeah
-[00:08.40] Yeah, yeah, yeah, yeah
-[00:19.40] 
-[00:11.71] I'm with the gang, gang, gang and we 'bout to go up
-[00:15.74] Switching lanes, it's a thang, every time we show up
-[00:18.81] You a lame, lame, lame and you so below us
-[00:21.84] Bet your hoe, she know us
-[00:23.62] 'Cause you know we blowed up
-[00:25.17] We stay down
-[00:28.01] And came up, and came up
-[00:31.43] We stay down
-[00:34.52] We came up, the gang up
-[00:46.02] 
-[00:37.43] 2 Chainz (Yeah)
-[00:39.21] I'm a villainous winner
-[00:41.44] With precision, I'm killing
-[00:43.08] Represent the religion
-[00:44.60] Ended up independent
-[00:46.28] Took my car to the clinic
-[00:47.88] Let 'em check all the vitals
-[00:49.45] Middle finger to rivals
-[00:50.94] Michael Jackson, my idol
-[00:52.59] Still ducked in a pie hole
-[00:54.14] Talk to the plug, every day except Cinco de Mayo
-[00:57.21] I still got me a Carlo
-[00:58.99] Still got money, Carlo
-[01:00.55] Your car running so bad, it stink up to your parlor
-[01:03.52] Call my rollie a Ralo
-[01:05.42] Call my AP a app
-[01:06.94] I ain't talking seat-belts when I say that I'm strapped
-[01:10.08] I'm in love with my side hoe
-[01:11.85] I sneak up through the side door
-[01:13.39] I'ma show you what we ride for
-[01:14.84] I'ma show you what we die for
-[01:29.34] 
-[01:16.14] I'm with the gang, gang, gang and we 'bout to go up
-[01:18.69] Switching lanes, it's a thang, every time we show up
-[01:21.79] You a lame, lame, lame and you so below us
-[01:24.95] Bet your hoe, she know us
-[01:26.64] 'Cause you know we blowed up
-[01:28.11] We stay down
-[01:31.13] And came up, and came up
-[01:34.06] We stay down
-[01:37.45] We came up, the gang up
-[01:48.95] 
-[01:40.65] I'm in my same lane, lane that ain't gon' ever change up
-[01:43.90] I blow the brain out the range like a Taz Angel
-[01:46.96] Here's R.I.P. to Paul Walker homie, he gotta stand up
-[01:50.20] We had you main on us, no we got stains on us
-[01:53.49] And all we gotta do is stay down and come up while they flexin' (What we gotta do?)
-[01:57.96] Yeah, I got her Indian and she Western
-[02:00.48] Yeah, just say so, money your best friend
-[02:03.77] Then that fast and furious started nesting
-[02:06.82] Say I'm bout to go take off on you (Take off on you)
-[02:09.52] Is staying, is you rolling like a scroller? yes you are
-[02:12.48] Your ready to take off like a 1980 Coke
-[02:15.26] He know that Instagram shit, are you gon' post that
-[02:40.76] 
-[02:18.34] I'm with the gang, gang, gang and we 'bout to go up
-[02:21.76] Switching lanes, it's a thang, every time we show up
-[02:24.91] You a lame, lame, lame and you so below us
-[02:28.06] Bet your hoe, she know us
-[02:29.88] 'Cause you know we blowed up
-[02:31.36] We stay down
-[02:34.45] And came up, and came up
-[02:37.53] We stay down
-[02:40.65] We came up, the gang up
-[02:52.15] 
-[02:43.70] Yeah, I'm always with my gang
-[02:46.28] We always ready to ride 'case for the squad, we'll do anything
-[02:50.04] Stay down, we'll never change
-[02:52.49] We always gon' stay the same
-[02:54.33] Put you in check, when you outta place
-[02:56.58] I try to tell 'em not to mess with my gang, gang, gang
-[02:59.71] We do what we gotta do and don't complain-plain-plain
-[03:02.96] I'm on the road, I'm probably fresh up off the plane, plane, plane
-[03:06.05] Know you heard about me, I do my thang, thang, thang
-[03:09.76] I got the world on my back
-[03:11.42] I put your girl on her back
-[03:13.15] I did it all on my own
-[03:14.63] Now there ain't no turning back
-[03:16.22] And my whole squad got my back
-[03:17.84] And shawty so bad, I asked her if she repped the gang, she said "Facts"
-[03:21.20] Gang, gang, gang
-[03:29.20] 
-[03:22.80] I'm with the gang, gang, gang and we 'bout to go up
-[03:25.01] Switching lanes, it's a thang, every time we show up
-[03:28.02] You a lame, lame, lame and you so below us
-[03:31.23] Bet your hoe, she know us
-[03:32.99] 'Cause you know we blowed up
-[03:34.48] We stay down
-[03:37.47] And came up, and came up
-[03:40.65] We stay down
-[03:44.00] We came up, the gang up
+[00:01.44] Yeah, yeah, yeah
+[00:03.92] Yeah, yeah, yeah (yeah)
+[00:06.62] Yeah, yeah, yeah
+[00:14.62] 
+[00:09.69] One more ride (ride) one more race (ride)
+[00:12.77] We go all out, we don't play
+[00:15.54] One more ride, one more race
+[00:18.46] We don't slow down, ain't no brakes
+[00:21.55] I'ma go off (yeah) I'ma ride tonight (yeah)
+[00:24.04] It don't matter what we face
+[00:26.30] I'ma go off (I'ma ride tonight)
+[00:29.16] I'm the master of my fate
+[00:31.91] I'ma go off (I'ma go off)
+[00:34.17] I'ma go off (I'ma go off)
+[00:37.13] I gotta go now
+[00:44.13] 
+[00:38.49] Taking off and I'm riding on the road now
+[00:40.72] Hit the gas, no brakes, gotta go now
+[00:43.44] Put my life on the line, yeah it's on me
+[00:46.32] Blood rushing through my veins, no IV
+[00:48.91] Ride, switching lanes, you can't stop me
+[00:51.56] You can smell the propane when you pass me (propane)
+[00:54.76] Ride for the gang because I'm the chief (gang gang)
+[00:57.45] Helicopter hovering, it's high speed
+[00:59.81] Chase, drive, straight
+[01:01.87] I'mma, race, to the, cake
+[01:04.72] Flame, on it, no chain, on me
+[01:07.39] All of, us, became, homies
+[01:20.39] 
+[01:09.93] One more ride (ride) one more race (race)
+[01:12.42] We go all out, we don't play
+[01:14.97] One more ride, one more race
+[01:17.69] We don't slow down, ain't no brakes
+[01:20.30] I'ma go off (yeah) I'ma ride tonight (yeah)
+[01:23.61] It don't matter what we face
+[01:26.02] I'ma go off (I'ma ride tonight)
+[01:28.82] I'm the master of my fate
+[01:31.50] I'ma go off (I'ma go off)
+[01:33.89] I'ma go off (I'ma go off)
+[01:36.46] I gotta go now
+[01:43.46] 
+[01:38.16] Nine-nine, nine-nine (yeah)
+[01:40.34] You're rocking with the ether child in overdrive
+[01:42.91] Yeah yeah, I-5 to I-9
+[01:45.67] We go all niiiiight, yeah (straight up!)
+[01:48.81] Double 0 speed, double 0 Chevy
+[01:51.42] I hit the fourth gear, hope I don't drift
+[01:54.14] Souped up cars all around me
+[01:56.74] Hot-boxing at a high speed
+[01:59.61] One lane driving
+[02:02.15] Bad thing beside me
+[02:04.98] One more time on the road (it's lit)
+[02:07.73] One more time 'fore we go
+[02:20.23] 
+[02:09.66] One more ride (ride) one more race (race)
+[02:11.95] We go all out, we don't play
+[02:14.59] One more ride, one more race
+[02:17.32] We don't slow down, ain't no brakes
+[02:20.17] I'ma go off (yeah) I'ma ride tonight (yeah)
+[02:23.07] It don't matter what we face
+[02:25.55] I'ma go off (I'ma ride tonight)
+[02:28.66] I'm the master of my fate
+[02:30.91] I'ma go off (I'ma go off)
+[02:33.47] I'ma go off (I'ma go off)
+[02:36.13] I gotta go now
+[02:43.13] 
+[02:37.70] Gotta go now, gotta go
+[02:40.07] Swervin' in my whip can't slow down
+[02:41.85] Driving fancy cars, boy I'm on the road now
+[02:44.42] Automatic start, my Vic take a code now
+[02:47.50] Yeah, rockstar, heavy metal, no guitar
+[02:50.55] Why you pay so much for your Nissan? Because it's GTR
+[02:53.41] First I shift it, click it, burning rubber like I'm moving dark
+[02:56.07] Drive at night, I chop my top so I can relate to the stars
+[02:59.01] Yeah, relate to the stars
+[03:02.16] I'ma race you for a pink slip
+[03:04.28] I got nitrous in my car so tell me what you thinkin'
+[03:06.89] My adrenaline start pumpin' so I been stopped blinkin'
+[03:33.89] 
+[03:09.47] One more ride (ride) one more race (race)
+[03:11.60] We go all out, we don't play
+[03:14.43] One more ride, one more race
+[03:16.91] We don't slow down, ain't no brakes
+[03:19.51] I'ma go off (yeah) I'ma ride tonight (yeah)
+[03:22.98] It don't matter what we face
+[03:25.30] I'ma go off (I'ma go off)
+[03:27.75] I'ma go off (I'ma go off)
+[03:30.55] I gotta go now
 ```
